@@ -647,7 +647,9 @@ a.git {
 a.linkedin {
     color: #0077B5;
 }
-
+.mb-30 {
+    margin-bottom: 30px;
+}
 /* cyrillic-ext */
 @font-face {
   font-family: 'Open Sans';
